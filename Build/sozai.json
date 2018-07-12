@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Travel_In_Balloon",
+"dataUrl": "sozai.data.unityweb",
+"asmCodeUrl": "sozai.asm.code.unityweb",
+"asmMemoryUrl": "sozai.asm.memory.unityweb",
+"asmFrameworkUrl": "sozai.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
